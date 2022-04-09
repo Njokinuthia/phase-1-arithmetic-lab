@@ -13,6 +13,9 @@ let random = Math.ceil(Math.random());
 console.log(random);
 
 // mod
-
 let mod = num3 % num4;
 console.log(mod);
+
+// max
+let max = Math.max(1,4,6,20,7,16)
+console.log(max)
